@@ -10,7 +10,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import pickle
 
 
-file_path = "dataset.csv"
+file_path = "dataset1.csv"
 data = pd.read_csv(file_path)
 
 
